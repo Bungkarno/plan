@@ -4,3 +4,4 @@ workout
   kill
 apply
 hidup senang
+make game
